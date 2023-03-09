@@ -1,0 +1,28 @@
+# Colors (solo-jazz)
+colors:
+  # Default colors
+  primary:
+    background: '0xfafafa'
+    foreground: '0x3b2685'
+
+  # Normal colors
+  normal:
+    black:   '0x24292e'
+    red:     '0xfe2500'
+    green:   '0x10d7ae'
+    yellow:  '0xffff00'
+    blue:    '0x005cc5'
+    magenta: '0xc71585'
+    cyan:    '0x009c9f'
+    white:   '0xfafafa'
+
+  # Bright colors
+  bright:
+    black:   '0x778ca3'
+    red:     '0xff4c4c'
+    green:   '0xacf2bc'
+    yellow:  '0xffff79'
+    blue:    '0x00afef'
+    magenta: '0xfa1090'
+    cyan:    '0x04c4c7'
+    white:   '0xfafafa'
