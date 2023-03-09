@@ -7,12 +7,14 @@
 </p>
 #+end_export
 
-Light theme inspired by Carl Steib [[https://github.com/cstby/solo-jazz-emacs-theme][Solo Jazz Emacs theme]].
+Light theme inspired by Carl Steib's [[https://github.com/cstby/solo-jazz-emacs-theme][Solo Jazz Emacs theme]].
+
+* Screenshot
 
 * Installation
 
 Put the the theme file wherever you want on your system and import it to your
-config. I put my themes in ~~/.config/alacritty/themes/~ therefore I have the
+config. I put my themes in ~\~/.config/alacritty/themes/~. Therefore, I have the
 following in my ~alacritty.yml~ :
 
 #+begin_src
