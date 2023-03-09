@@ -1,20 +1,17 @@
 #+title: Solo Jazz theme for Alacritty
 #+author: Tristan Riehs
 
-#+begin_export html
-<p align="center">
-<img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" />
-</p>
-#+end_export
+[[https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png]]
 
-Light theme inspired by Carl Steib's [[https://github.com/cstby/solo-jazz-emacs-theme][Solo Jazz Emacs theme]].
+Light theme inspired by Carl Steib's [[https://github.com/cstby/solo-jazz-emacs-theme][Solo Jazz Emacs theme]]. Based on the Solo
+Jazz cup design.
 
 * Screenshot
 
 * Installation
 
 Put the the theme file wherever you want on your system and import it to your
-config. I put my themes in ~\~/.config/alacritty/themes/~. Therefore, I have the
+config. I put my themes in ~~/.config/alacritty/themes/~ . Therefore, I have the
 following in my ~alacritty.yml~ :
 
 #+begin_src
